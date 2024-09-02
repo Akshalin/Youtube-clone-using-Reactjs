@@ -1,0 +1,33 @@
+.container{
+  display: flex;
+}
+.menu-section{
+  width: 200px;
+}
+.menu-section li{
+  list-style-type: none;
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.menu-section h2,h4{
+  margin-left: 30px;
+}
+.menu-section h2 span{
+  color: red;
+  font-size: 25px;
+  padding: 5px;
+}
+.playlist{
+  width: 300px;
+  margin:70px 15px 5px;
+}
+.playlist img{
+  width: 300px;
+  border-radius: 15px;
+}
+.playlist h5{
+  font-size: 18px;
+}
+.display-playlist{
+  display: flex;
+}
